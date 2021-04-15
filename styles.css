@@ -1,0 +1,23 @@
+body {
+    color: red;
+}
+
+h1 {
+    color: blue;
+}
+
+.description {
+    color: green;
+}
+
+#short-note {
+    color: cyan;
+}
+
+a:link {
+    background-color: lightgreen;
+}
+
+a:visited {
+    background-color: purple;
+}
